@@ -1,6 +1,6 @@
-from tessera.io import load_tiles
-from tessera.mosaic import create_mosaic
-from tessera.visualize import visualize_pca
+from src.io import load_tiles
+from src.mosaic import create_mosaic
+from src.visualize import visualize_pca
 
 # -------------------------------------------------
 # CHANGE THIS PATH
